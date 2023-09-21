@@ -40,6 +40,7 @@ class CustomerControllerTest {
         customerServiceImpl = new CustomerServiceImpl();
     }
 
+
     @Test
     void testCreateNewCustomer() throws Exception {
         Customer customer = customerServiceImpl.getAllCustomers().get(0);
