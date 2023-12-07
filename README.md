@@ -2,6 +2,7 @@
 This repository is for an example application built in my Spring Framework 6 - Beginner to Guru online course.
 
 The application is used to learn:
+
 5. Project Lombok
 6. Spring MVC Rest Services
 7. Spring MockMVC Test with Mockito
