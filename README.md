@@ -10,6 +10,8 @@ The application is used to learn:
 -	HTTP DELETE with Spring MVC
 -	HTTP PATCH with Spring MVC
 
+5. Project Lombok
+6. Spring MVC Rest Services
 7. Spring MockMVC Test with Mockito
 8. Exceprtion Handling with Spring MVC
 9. Spring Data JPA with Spring MVC
